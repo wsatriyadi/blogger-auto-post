@@ -1,0 +1,20 @@
+# Blogger Auto Post dependencies
+
+# Google API libraries
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.4.0
+
+# Data handling
+pandas>=1.0.0
+
+# Environment variables
+python-dotenv>=0.15.0
+
+# Standard libraries used
+argparse
+logging
+os
+csv
+pickle
+typing
